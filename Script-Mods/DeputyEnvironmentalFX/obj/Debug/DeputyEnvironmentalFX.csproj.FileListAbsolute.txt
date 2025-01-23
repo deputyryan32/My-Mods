@@ -1,9 +1,0 @@
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\bin\Debug\DeputyEnvironmentalFX.dll
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\bin\Debug\DeputyEnvironmentalFX.pdb
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\bin\Debug\ScriptHookVDotNet3.dll
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\bin\Debug\ScriptHookVDotNet3.pdb
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\obj\Debug\DeputyEnvironmentalFX.csproj.AssemblyReference.cache
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\obj\Debug\DeputyEnvironmentalFX.csproj.CoreCompileInputs.cache
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\obj\Debug\DeputyEn.7B982F7E.Up2Date
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\obj\Debug\DeputyEnvironmentalFX.dll
-C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DeputyEnvironmentalFX\obj\Debug\DeputyEnvironmentalFX.pdb
