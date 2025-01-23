@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\SecondAmendmentNPCs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E48D90-6944-4DE2-96C5-5886634069CD}|SecondAmendmentNPCs\\SecondAmendmentNPCs.csproj|c:\\users\\rybug\\onedrive\\desktop\\hide\\my cs code\\secondamendmentnpcs\\secondamendmentnpcs\\secondamendmentnpcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E48D90-6944-4DE2-96C5-5886634069CD}|SecondAmendmentNPCs\\SecondAmendmentNPCs.csproj|solutionrelative:secondamendmentnpcs\\secondamendmentnpcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondAmendmentNPCs.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\SecondAmendmentNPCs\\SecondAmendmentNPCs\\SecondAmendmentNPCs.cs",
+              "RelativeDocumentMoniker": "SecondAmendmentNPCs\\SecondAmendmentNPCs.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\SecondAmendmentNPCs\\SecondAmendmentNPCs\\SecondAmendmentNPCs.cs",
+              "RelativeToolTip": "SecondAmendmentNPCs\\SecondAmendmentNPCs.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:47:07.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

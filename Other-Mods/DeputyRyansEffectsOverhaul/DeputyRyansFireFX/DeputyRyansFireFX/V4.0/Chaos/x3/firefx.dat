@@ -1,0 +1,93 @@
+1.00
+
+####################################################################################################################################################################################################################################################################################################################################################################################################################################
+#						
+# VFX MATERIAL GROUP	FLAM	BURN	BURN	MAP		
+#								TIME	STR		FX_NAME	
+####################################################################################################################################################################################################################################################################################################################################################################################################################################
+																																																																																																								
+FIREFX_INFO_START																																																																																																				
+																																																																																																								
+VOID					0.0		0.0		0.0		fire_map_slow
+GENERIC					0.0		0.0		0.0		fire_map_slow
+
+CONCRETE				0.3		6.0		0.3		fire_map_slow
+CONCRETE_DUSTY			0.3		6.0		0.0		fire_map_slow
+TARMAC					0.3		6.0		0.0		fire_map_slow
+TARMAC_BRITTLE			0.3		6.0		0.0		fire_map_slow
+STONE					0.3		6.0		0.0		fire_map_slow
+BRICK					0.3		6.0		0.0		fire_map_slow
+MARBLE					0.3		6.0		0.0		fire_map_slow
+PAVING					0.3		6.0		0.0		fire_map_slow
+SANDSTONE				0.3		6.0		0.0		fire_map_slow
+SANDSTONE_BRITTLE		0.3		6.0		0.0		fire_map_slow
+
+SAND_LOOSE				0.0		6.0		0.0		fire_map_slow
+SAND_COMPACT			0.0		6.0		0.0		fire_map_slow
+SAND_WET				0.0		0.0		0.0		fire_map_slow
+SAND_UNDERWATER			0.0		0.0		0.0		fire_map_slow
+SAND_DEEP				0.0		6.0		0.0		fire_map_slow
+SAND_WET_DEEP			0.0		0.0		0.0		fire_map_slow
+ICE						0.0		0.0		0.0		fire_map_slow
+SNOW_LOOSE				0.0		0.0		0.0		fire_map_slow
+SNOW_COMPACT			0.0		0.0		0.0		fire_map_slow
+GRAVEL					0.0		6.0		0.0		fire_map_slow
+GRAVEL_DEEP				0.0		6.0		0.0		fire_map_slow
+DIRT_DRY				0.0		6.0		0.0		fire_map_slow
+MUD_SOFT				0.0		6.0		0.0		fire_map_quick
+MUD_DEEP				0.0		6.0		0.0		fire_map_slow
+MUD_UNDERWATER			0.0		0.0		0.0		fire_map_slow
+CLAY					0.0		0.0		0.0		fire_map_slow
+
+GRASS					3.0		180.75	3.0		fire_map_quick
+GRASS_SHORT				3.0		180.75	3.0		fire_map_quick
+HAY						3.0		180.75	3.0		fire_map_quick
+BUSHES					2.4		181.50	2.1		fire_map_quick
+TREE_BARK				2.4		181.50	2.1		fire_map_quick
+LEAVES					3.0		181.50	2.7		fire_map_quick
+
+METAL					15.0	15.0	0.0		fire_map_slow
+
+WOOD					17.4	180.0	2.4		fire_map_quick
+WOOD_DUSTY				17.4	180.0	2.4		fire_map_quick
+WOOD_SPLINTER			17.4	180.0	2.4		fire_map_quick
+
+CERAMIC					0.0		0.0		0.0		fire_map_slow
+CARPET_FABRIC			16.8	30.0	2.7		fire_map_slow
+CARPET_FABRIC_DUSTY		16.8	30.0	2.7		fire_map_slow
+PLASTIC					16.8	30.0	2.4		fire_map_slow
+PLASTIC_HOLLOW			16.8	30.0	2.4		fire_map_slow
+RUBBER					15.6	45.0	2.7		fire_map_slow
+LINOLEUM				16.2	30.0	2.4		fire_map_slow
+PLASTER_BRITTLE			0.0		0.0		0.0		fire_map_slow
+CARDBOARD				15.0	30.0	3.0		fire_map_quick
+PAPER					15.0	30.0	3.0		fire_map_quick
+FOAM					2.4		12.0	2.4		fire_map_quick
+FEATHERS				3.0		12.0	2.7		fire_map_quick
+TVSCREEN				0.0		0.0		0.0		fire_map_slow
+
+GLASS					0.0		0.0		0.0		fire_map_slow
+GLASS_BULLETPROOF		0.0		0.0		0.0		fire_map_slow
+
+CAR_METAL				0.0		0.0		0.0		fire_map_slow
+CAR_PLASTIC				0.0		0.0		0.0		fire_map_slow
+CAR_GLASS				0.0		0.0		0.0		fire_map_slow
+
+PUDDLE					0.0		0.0		0.0		fire_map_slow
+
+LIQUID_WATER			0.0		0.0		0.0		fire_map_slow
+LIQUID_BLOOD			0.0		0.0		0.0		fire_map_slow
+LIQUID_OIL				0.0		30.0	0.0		fire_map_slow
+LIQUID_PETROL			0.0		30.0	0.0		fire_map_slow
+LIQUID_MUD				0.0		0.0		0.0		fire_map_slow
+
+FRESH_MEAT				16.5	36.0	2.7		fire_map_slow
+DRIED_MEAT				16.5	36.0	2.7		fire_map_slow
+
+PED_HEAD				0.0		0.0		0.0		fire_map_slow
+PED_TORSO				0.0		0.0		0.0		fire_map_slow
+PED_LIMB				0.0		0.0		0.0		fire_map_slow
+PED_FOOT				0.0		0.0		0.0		fire_map_slow
+PED_CAPSULE				0.0		0.0		0.0		fire_map_slow
+
+FIREFX_INFO_END

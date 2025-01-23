@@ -1,0 +1,35 @@
+5.00
+# COLN TYPE: 1-ground plane, 2-ground bound, 3-vehicle up
+
+#			    				PTFX --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->				FIRES ------------------------------------------------------------------------------------->
+#TYPE							FX_NAME						FX_2_NAME				FX_3_NAME					FX_LOD_NAME					FX_AIR_NAME					FX_AIR_2_NAME			FX_AIR_3_NAME		FX_AIR_LOD_NAME				SCALE	SCORCH		  NUMBER		   RANGE		 BURN TIME		BURN STRENGTH	 PEAK TIME			FUEL
+#			    																																																										DECALS		MIN		MAX		MIN		MAX		MIN		MAX		MIN		MAX		MIN		MAX		LEVEL	BURN
+#																																																																																						RATE
+																																																											
+EXPLOSIONFX_TABLE_START																																										   												
+																																																											
+EXP_VFXTAG_GRENADE				exp_grd_grenade				exp_grd_gren_sp			-							exp_grd_grenade_lod			exp_air_grenade				-						-					exp_air_grenade_lod			5.0		1			1		1		0.3		0.4		0.4		0.6		1.3		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_STICKYBOMB			exp_grd_sticky				exp_grd_sticky_sp		-							exp_grd_sticky_lod			exp_air_grenade				-						-					exp_air_grenade_lod			5.0		1			1		1		0.2		0.3		0.3		0.4		1.1		1.4		1.0		1.4		1.0		0.7
+EXP_VFXTAG_MOLOTOV				exp_grd_molotov				-						-							exp_grd_molotov_lod			exp_air_molotov				-						-					exp_air_molotov_lod			5.0		1			4		5		1.3		1.6		1.1		1.9		1.6		2.1		1.4		2.1		1.9		1.1
+EXP_VFXTAG_ROCKET				exp_grd_rpg					exp_grd_rpg_sp			exp_grd_rpg_post			exp_grd_rpg_lod				exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				5.0		1			2		4		0.6		1.3		1.1		2.6		1.6		2.1		1.9		3.1		1.1		1.1
+EXP_VFXTAG_PETROL_PUMP			exp_grd_petrol_pump			exp_grd_petrol_pump_sp	exp_grd_petrol_pump_post	-							exp_grd_petrol_pump			exp_grd_petrol_pump_sp	-					-							5.0		1			3		4		1.3		2.1		3.1		5.1		1.6		2.1		1.9		3.6		2.1		1.1
+EXP_VFXTAG_VEHICLE				exp_grd_vehicle				exp_grd_plane		    exp_grd_petrol_pump_sp		exp_grd_vehicle_lod			exp_air_rpg					exp_air_rpg_sp			exp_grd_plane		exp_air_rpg_lod				5.0		1			1		1		0.6		1.1		1.1		1.6		1.6		2.1		1.9		3.1		1.1		1.1
+EXP_VFXTAG_BIKE					exp_grd_vehicle				exp_grd_vehicle_sp		exp_grd_vehicle_post		exp_grd_vehicle_lod			exp_air_rpg					exp_air_rpg_sp			-					exp_air_rpg_lod				5.0		1			3		5		1.3		2.1		2.6		4.6		1.6		2.1		1.9		3.6		2.1		1.1
+EXP_VFXTAG_DIR_STEAM			exp_sht_steam				-						-							-							exp_sht_steam				-						-					-							5.0		0			1		1		0.3		0.4		0.4		0.6		1.1		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_DIR_FLAME			exp_sht_flame				-						-			 				-							exp_sht_flame				-						-			 		-							5.0		1			1		1		0.6		1.1		1.1		1.6		1.3		1.9		1.4		2.1		1.9		1.1
+EXP_VFXTAG_DIR_WATER_HYDRANT	exp_hydrant					-						-							-							exp_hydrant					-						-					-							5.0		0			1		1		0.3		0.4		0.4		0.6		1.3		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_DIR_GAS_CANISTER		exp_sht_flame				-						-							-							exp_sht_flame				-						-					-							5.0		1			1		1		0.6		1.1		1.1		1.6		1.3		1.9		1.4		2.1		1.9		1.1
+EXP_VFXTAG_TRUCK				exp_grd_vehicle				exp_grd_plane		    exp_grd_petrol_pump_sp		exp_grd_vehicle_lod			exp_air_rpg_plane			exp_air_rpg_sp		    exp_grd_petrol_pump_sp		    exp_air_rpg_plane_lod		5.0		1			1		1		1.1		1.6		1.6		2.6		1.9		2.6		2.1		3.6		1.6		1.1
+EXP_VFXTAG_BULLET				exp_grd_grenade				exp_grd_gren_sp			-							exp_grd_grenade_lod			exp_air_grenade				-						-					exp_air_grenade_lod			5.0		1			1		1		0.2		0.3		0.3		0.4		1.1		1.4		1.0		1.4		1.0		0.7
+EXP_VFXTAG_SMOKE_GRENADE		exp_grd_grenade_smoke		-						-			 				-							exp_grd_grenade_smoke		-						-					-							5.0		0			1		1		0.3		0.4		0.4		0.6		1.3		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_BZGAS				exp_grd_bzgas_smoke			-						-							-							exp_grd_bzgas_smoke			-						-					-							5.0		0			1		1		0.3		0.4		0.4		0.6		1.3		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_FBI4_TRUCK_DOORS		exp_fbi4_doors				-						-							-							exp_fbi4_doors				-						-					-							5.0		1			1		1		0.6		1.1		1.1		1.6		1.3		1.9		1.4		2.1		1.9		1.1
+EXP_VFXTAG_GAS_CANISTER			exp_grd_gas_can				-						-							-							exp_air_rpg					exp_air_rpg_sp			-					-							5.0		1			2		3		1.1		1.6		1.6		2.1		1.6		2.1		1.9		2.6		1.6		1.1
+EXP_VFXTAG_EXTINGUISHER			exp_sht_extinguisher		-						-							-							exp_sht_extinguisher		-						-					-							5.0		0			1		1		0.3		0.4		0.4		0.6		1.3		1.6		1.1		1.6		1.1		0.8
+EXP_VFXTAG_PLANE_ROCKET			exp_grd_rpg					exp_grd_rpg_sp			exp_grd_rpg_post			exp_grd_rpg_lod				exp_air_rpg_plane			exp_air_rpg_sp_plane	-					exp_air_rpg_plane_lod		5.0		1			2		4		0.6		1.3		1.1		2.6		1.6		2.1		1.9		3.1		1.1		1.1
+
+
+EXPLOSIONFX_TABLE_END
+
+# DeputyMods
+# DO NOT DISTRIBUTE WITHOUT PERMISSION

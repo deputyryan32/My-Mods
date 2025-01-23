@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79CDD2F-C812-4B45-A314-2362D39ECB17}|PedPurge\\PedPurge.csproj|c:\\users\\rybug\\desktop\\mystuff\\deputymods\\mods\\script-mods\\pedpurge\\pedpurge\\pedpurge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79CDD2F-C812-4B45-A314-2362D39ECB17}|PedPurge\\PedPurge.csproj|solutionrelative:pedpurge\\pedpurge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79CDD2F-C812-4B45-A314-2362D39ECB17}|PedPurge\\PedPurge.csproj|C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\pedpurge\\config\\pedpurge.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E79CDD2F-C812-4B45-A314-2362D39ECB17}|PedPurge\\PedPurge.csproj|solutionrelative:pedpurge\\config\\pedpurge.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedPurge.ini",
+              "DocumentMoniker": "C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\PedPurge\\Config\\PedPurge.ini",
+              "RelativeDocumentMoniker": "PedPurge\\Config\\PedPurge.ini",
+              "ToolTip": "C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\PedPurge\\Config\\PedPurge.ini",
+              "RelativeToolTip": "PedPurge\\Config\\PedPurge.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-11-16T19:02:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedPurge.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\PedPurge\\PedPurge.cs",
+              "RelativeDocumentMoniker": "PedPurge\\PedPurge.cs",
+              "ToolTip": "C:\\Users\\rybug\\Desktop\\MyStuff\\DeputyMods\\Mods\\Script-Mods\\PedPurge\\PedPurge\\PedPurge.cs",
+              "RelativeToolTip": "PedPurge\\PedPurge.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:47:25.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

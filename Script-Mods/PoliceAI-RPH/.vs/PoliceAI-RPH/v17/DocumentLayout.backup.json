@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|c:\\users\\rybug\\onedrive\\desktop\\hide\\my cs code\\policeai-rph\\policeai-rph\\plugins\\spikestripai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\spikestripai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\plugins\\roadblockai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\roadblockai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\plugins\\pursuitai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\pursuitai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\plugins\\helicopterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\helicopterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\plugins\\backupai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\backupai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\versioncheck\\versionchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\versioncheck\\versionchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\aihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\aihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\policeaisettingsrph.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\policeaisettingsrph.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\plugins\\trafficstopai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\plugins\\trafficstopai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\policeai-rph\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98EF798-FD41-4933-A7E6-DB1A7069C23C}|PoliceAI-RPH\\PoliceAI-RPH.csproj|solutionrelative:policeai-rph\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpikeStripAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\SpikeStripAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\SpikeStripAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\SpikeStripAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\SpikeStripAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:29:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelicopterAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\HelicopterAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\HelicopterAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\HelicopterAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\HelicopterAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:29:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoadblockAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\RoadblockAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\RoadblockAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\RoadblockAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\RoadblockAI.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:28:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackupAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\BackupAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\BackupAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\BackupAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\BackupAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:28:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PursuitAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\PursuitAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\PursuitAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\PursuitAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\PursuitAI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:28:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrafficStopAI.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\TrafficStopAI.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Plugins\\TrafficStopAI.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Plugins\\TrafficStopAI.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Plugins\\TrafficStopAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:27:47.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VersionChecker.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\VersionCheck\\VersionChecker.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\VersionCheck\\VersionChecker.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\VersionCheck\\VersionChecker.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\VersionCheck\\VersionChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:24:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\AIHelper.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\AIHelper.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\AIHelper.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\AIHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:23:38.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\ConfigManager.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\ConfigManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:23:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\AIController.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\AIController.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\AIController.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\AIController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:23:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PoliceAISettingsRPH.ini",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\PoliceAISettingsRPH.ini",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\PoliceAISettingsRPH.ini",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\PoliceAISettingsRPH.ini",
+              "RelativeToolTip": "PoliceAI-RPH\\PoliceAISettingsRPH.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-10-17T05:21:08.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Main.cs",
+              "RelativeDocumentMoniker": "PoliceAI-RPH\\Main.cs",
+              "ToolTip": "C:\\Users\\rybug\\OneDrive\\Desktop\\Hide\\My CS Code\\PoliceAI-RPH\\PoliceAI-RPH\\Main.cs",
+              "RelativeToolTip": "PoliceAI-RPH\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:14:58.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

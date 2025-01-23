@@ -1,0 +1,104 @@
+####################################################################################################
+#                              VFX MATERIAL GROUP  |  FLAM  |  BURN TIME  |  BURN STR  |  FX_NAME  #
+####################################################################################################
+
+FIREFX_INFO_START
+
+# General
+VOID                    30.0    300.0   150.0   fire_map_quick
+GENERIC                 60.0    1800.0  360.0   fire_map_slow
+
+# Hard Surfaces
+CONCRETE                45.0    4500.0  210.0   fire_map_quick
+CONCRETE_DUSTY          45.0    4500.0  210.0   fire_map_slow
+TARMAC                  60.0    5400.0  255.0   fire_map_slow
+TARMAC_BRITTLE          60.0    5400.0  255.0   fire_map_quick
+STONE                   36.0    3600.0  180.0   fire_map_slow
+BRICK                   54.0    5400.0  270.0   fire_map_quick
+MARBLE                  24.0    2400.0  120.0   fire_map_slow
+PAVING                  45.0    4500.0  225.0   fire_map_slow
+SANDSTONE               36.0    3600.0  180.0   fire_map_quick
+# Made By DeputyMods
+SANDSTONE_BRITTLE       36.0    3600.0  180.0   fire_map_slow
+
+# Sand & Snow
+SAND_LOOSE              24.0    2400.0  120.0   fire_map_quick
+SAND_COMPACT            24.0    2400.0  120.0   fire_map_slow
+SAND_WET                0.0     0.0     0.0     fire_map_slow
+SAND_UNDERWATER         0.0     0.0     0.0     fire_map_slow
+SAND_DEEP               24.0    2400.0  120.0   fire_map_quick
+SAND_WET_DEEP           0.0     0.0     0.0     fire_map_slow
+ICE                     0.0     0.0     0.0     fire_map_slow
+SNOW_LOOSE              0.0     0.0     0.0     fire_map_quick
+SNOW_COMPACT            0.0     0.0     0.0     fire_map_slow
+GRAVEL                  36.0    3600.0  180.0   fire_map_slow
+# Made By DeputyMods
+GRAVEL_DEEP             30.0    3000.0  150.0   fire_map_quick
+DIRT_DRY                36.0    3600.0  180.0   fire_map_slow
+MUD_SOFT                75.0    5400.0  360.0   fire_map_quick
+MUD_DEEP                60.0    4500.0  270.0   fire_map_slow
+MUD_UNDERWATER          0.0     0.0     0.0     fire_map_slow
+CLAY                    36.0    3000.0  150.0   fire_map_quick
+
+# Vegetation
+GRASS                   180.0   36000.0 750.0   fire_map_quick
+GRASS_SHORT             165.0   34500.0 690.0   fire_map_slow
+HAY                     195.0   39000.0 750.0   fire_map_quick
+BUSHES                  150.0   33000.0 600.0   fire_map_slow
+TREE_BARK               210.0   75000.0 900.0   fire_map_slow
+LEAVES                  135.0   31500.0 660.0   fire_map_quick
+# Made By DeputyMods
+
+# Other Materials
+METAL                   120.0   10500.0 360.0   fire_map_slow
+WOOD                    195.0   75000.0 1200.0  fire_map_quick
+WOOD_DUSTY              180.0   60000.0 1050.0  fire_map_slow
+WOOD_SPLINTER           150.0   57000.0 960.0   fire_map_quick
+CERAMIC                 75.0    4500.0  240.0   fire_map_slow
+CARPET_FABRIC           165.0   66000.0 1200.0  fire_map_slow
+CARPET_FABRIC_DUSTY     150.0   51000.0 1050.0  fire_map_quick
+PLASTIC                 180.0   60000.0 960.0   fire_map_slow
+PLASTIC_HOLLOW          165.0   45000.0 840.0   fire_map_quick
+RUBBER                  180.0   57000.0 900.0   fire_map_slow
+# Made By DeputyMods
+LINOLEUM                150.0   51000.0 750.0   fire_map_quick
+PLASTER_BRITTLE         75.0    5400.0  210.0   fire_map_slow
+CARDBOARD               165.0   42000.0 840.0   fire_map_slow
+PAPER                   150.0   36000.0 750.0   fire_map_quick
+FOAM                    180.0   45000.0 660.0   fire_map_slow
+FEATHERS                165.0   39000.0 600.0   fire_map_quick
+TVSCREEN                75.0    3000.0  150.0   fire_map_slow
+
+# Glass
+GLASS                   45.0    4500.0  240.0   fire_map_slow
+GLASS_BULLETPROOF       30.0    3600.0  210.0   fire_map_quick
+
+# Vehicle Materials
+CAR_METAL               120.0   45000.0 450.0   fire_map_slow
+CAR_PLASTIC             135.0   39000.0 420.0   fire_map_quick
+CAR_GLASS               75.0    3000.0  270.0   fire_map_slow
+# Made By DeputyMods
+
+# Liquids
+PUDDLE                  0.0     0.0     0.0     fire_map_slow
+LIQUID_WATER            0.0     0.0     0.0     fire_map_slow
+LIQUID_BLOOD            0.0     0.0     0.0     fire_map_slow
+LIQUID_OIL              180.0   60000.0 1200.0  fire_map_quick
+LIQUID_PETROL           240.0   84000.0 1350.0  fire_map_slow
+LIQUID_MUD              60.0    3600.0  300.0   fire_map_quick
+
+# Organic Materials
+FRESH_MEAT              135.0   45000.0 660.0   fire_map_slow
+DRIED_MEAT              150.0   54000.0 750.0   fire_map_quick
+
+# Pedestrian Materials
+PED_HEAD                75.0    3600.0  240.0   fire_map_slow
+PED_TORSO               90.0    4800.0  300.0   fire_map_quick
+PED_LIMB                75.0    3600.0  240.0   fire_map_slow
+PED_FOOT                60.0    3000.0  180.0   fire_map_slow
+PED_CAPSULE             60.0    3000.0  180.0   fire_map_quick
+# Made By DeputyMods
+
+FIREFX_INFO_END
+
+# Branded to DeputyMods

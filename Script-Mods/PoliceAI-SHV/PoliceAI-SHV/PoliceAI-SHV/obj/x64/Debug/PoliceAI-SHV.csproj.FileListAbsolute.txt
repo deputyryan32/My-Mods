@@ -1,0 +1,10 @@
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\bin\x64\Debug\PoliceAI-SHV.dll
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\bin\x64\Debug\PoliceAI-SHV.pdb
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\bin\x64\Debug\INIFileParser.dll
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\bin\x64\Debug\ScriptHookVDotNet3.dll
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\bin\x64\Debug\ScriptHookVDotNet3.pdb
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\obj\x64\Debug\PoliceAI-SHV.csproj.AssemblyReference.cache
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\obj\x64\Debug\PoliceAI-SHV.csproj.CoreCompileInputs.cache
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\obj\x64\Debug\PoliceAI.11B49FED.Up2Date
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\obj\x64\Debug\PoliceAI-SHV.dll
+C:\Users\rybug\OneDrive\Desktop\Hide\My CS Code\PoliceAI-SHV\PoliceAI-SHV\obj\x64\Debug\PoliceAI-SHV.pdb

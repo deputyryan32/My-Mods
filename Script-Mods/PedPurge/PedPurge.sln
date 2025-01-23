@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedPurge", "PedPurge\PedPurge.csproj", "{E79CDD2F-C812-4B45-A314-2362D39ECB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79CDD2F-C812-4B45-A314-2362D39ECB17}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{E79CDD2F-C812-4B45-A314-2362D39ECB17}.Debug|Any CPU.Build.0 = Debug|x64
+		{E79CDD2F-C812-4B45-A314-2362D39ECB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79CDD2F-C812-4B45-A314-2362D39ECB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986A788D-C8CE-4E5E-AC2B-44C558F2ABA3}
+	EndGlobalSection
+EndGlobal

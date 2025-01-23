@@ -1,0 +1,9 @@
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\bin\x64\Debug\DM-RealisticDamage.dll
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\bin\x64\Debug\DM-RealisticDamage.pdb
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\bin\x64\Debug\ScriptHookVDotNet3.dll
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\bin\x64\Debug\ScriptHookVDotNet3.pdb
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\obj\x64\Debug\DM-RealisticDamage.csproj.AssemblyReference.cache
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\obj\x64\Debug\DM-RealisticDamage.csproj.CoreCompileInputs.cache
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\obj\x64\Debug\DM-Reali.F0B2D3DF.Up2Date
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\obj\x64\Debug\DM-RealisticDamage.dll
+C:\Users\rybug\Desktop\MyStuff\DeputyMods\Mods\Script-Mods\DM-RealisticDamage\obj\x64\Debug\DM-RealisticDamage.pdb
